@@ -1,0 +1,1 @@
+gcloud instances list
